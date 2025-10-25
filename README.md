@@ -1,0 +1,1 @@
+Programa que implementa a Cifra de César, uma técnica de criptografia simples, onde cada letra da palavra é deslocada por um número fixo de posições (shift). Aceita letras maiúsculas e minúsculas, e retorna o texto cifrado.
